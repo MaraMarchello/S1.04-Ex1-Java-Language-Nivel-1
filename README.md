@@ -25,7 +25,7 @@ Características principales:
 ## 🛠️ Instalación
 1. Clonar el repositorio:
 ```bash
-git clone [url-del-repositorio]
+git clone (https://github.com/MaraMarchello/S1.04-Ex1-Java-Language-Nivel-1.git)
 ```
 
 2. Navegar al directorio del proyecto:
